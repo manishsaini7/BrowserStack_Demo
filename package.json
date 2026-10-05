@@ -5,6 +5,8 @@
     "test": "node demos/test-reporting/failure-triage/scripts/run.cjs baseline",
     "demo": "node demos/test-reporting/failure-triage/scripts/run.cjs",
     "verify:demo": "node demos/test-reporting/failure-triage/scripts/verify.cjs",
+    "demo:timeline": "node demos/test-reporting/timeline-debugging/scripts/run.cjs",
+    "verify:timeline": "node demos/test-reporting/timeline-debugging/scripts/verify.cjs",
     "typecheck": "tsc --noEmit"
   },
   "keywords": [],

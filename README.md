@@ -4,6 +4,7 @@ Reusable technical examples for BrowserStack developer education. Each example e
 
 ## Examples
 
+- [Timeline debugging: was the timeout actually slowness?](demos/test-reporting/timeline-debugging/README.md): follow a successful HTTP response with missing data into a later click timeout, compare prior execution evidence, and test the explanation across four phases (YT-007).
 - [Failure triage with Test Reporting & Analytics](demos/test-reporting/failure-triage/README.md): run eight Playwright tests against https://bstackdemo.com/, introduce browser-only faults, and investigate actual error groups before restoring normal behavior.
 
 ## Setup
